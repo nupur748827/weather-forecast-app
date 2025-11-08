@@ -1,0 +1,7 @@
+website: openweathermap
+
+api key: ed017c2c54830aa1d30ad48a26467f95
+
+API > Current Weather Data > Api doc > Built-in API request by city name
+
+link: https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
